@@ -1,0 +1,28 @@
+.coin-card {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #fff;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    .coin-card__symbol {
+        min-width: 50px;
+        font-size: 15px;
+        color: #DAA320;
+        a,
+        a:link,
+        a:visited {
+            color: #EAEBED;
+            outline: none;
+            text-decoration: none;
+        }
+    }
+    .coin-card__percent {
+        min-width: 50px;
+        text-align: center;
+    }
+    .coin-card__price {
+        min-width: 50px;
+        text-align: end;
+    }
+}
