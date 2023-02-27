@@ -18,7 +18,7 @@ function App() {
   // -------------- WebSocket connection --------------
   const connect = (): void => {
     
-    socket.current = new WebSocket('wss://13.40.118.96:443')
+    socket.current = new WebSocket('ws://13.40.118.96:443')
 
     socket.current.onopen = () => {
         dispatch(onConnecting(username))
