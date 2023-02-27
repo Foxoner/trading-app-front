@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/trading-app-front/static/css/main.1db3de16.css",
-    "main.js": "/trading-app-front/static/js/main.065b6ff6.js",
+    "main.js": "/trading-app-front/static/js/main.cffd203f.js",
     "static/media/telegram.png": "/trading-app-front/static/media/telegram.a83c039a76b7de79637c.png",
     "index.html": "/trading-app-front/index.html",
     "main.1db3de16.css.map": "/trading-app-front/static/css/main.1db3de16.css.map",
-    "main.065b6ff6.js.map": "/trading-app-front/static/js/main.065b6ff6.js.map"
+    "main.cffd203f.js.map": "/trading-app-front/static/js/main.cffd203f.js.map"
   },
   "entrypoints": [
     "static/css/main.1db3de16.css",
-    "static/js/main.065b6ff6.js"
+    "static/js/main.cffd203f.js"
   ]
 }
