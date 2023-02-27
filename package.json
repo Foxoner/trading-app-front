@@ -2,7 +2,7 @@
   "name": "trading-front",
   "version": "0.1.0",
   "homepage": "http://foxoner.github.io/trading-app-front",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.2",
     "@testing-library/jest-dom": "^5.16.5",
