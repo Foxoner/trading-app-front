@@ -1,7 +1,7 @@
 {
   "name": "trading-front",
   "version": "0.1.0",
-  "homepage": "http://Foxoner.github.io/trading-app-front",
+  "homepage": "http://foxoner.github.io/trading-app-front",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.2",
